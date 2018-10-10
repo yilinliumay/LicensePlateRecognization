@@ -1,0 +1,16 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:id="@+id/btn_gray_process"
+        android:text="Next Step" />
+
+    <ImageView
+        android:id="@+id/img_huaishi"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+
+</LinearLayout>

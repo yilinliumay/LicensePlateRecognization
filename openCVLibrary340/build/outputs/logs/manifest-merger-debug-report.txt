@@ -1,0 +1,49 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mayliu/AndroidStudioProjects/OpencvPlate/openCVLibrary340/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/mayliu/AndroidStudioProjects/OpencvPlate/openCVLibrary340/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/mayliu/AndroidStudioProjects/OpencvPlate/openCVLibrary340/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/mayliu/AndroidStudioProjects/OpencvPlate/openCVLibrary340/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/mayliu/AndroidStudioProjects/OpencvPlate/openCVLibrary340/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/mayliu/AndroidStudioProjects/OpencvPlate/openCVLibrary340/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/mayliu/AndroidStudioProjects/OpencvPlate/openCVLibrary340/src/main/AndroidManifest.xml:2:1-11:12
+	package
+		ADDED from /Users/mayliu/AndroidStudioProjects/OpencvPlate/openCVLibrary340/src/main/AndroidManifest.xml:3:7-27
+		INJECTED from /Users/mayliu/AndroidStudioProjects/OpencvPlate/openCVLibrary340/src/main/AndroidManifest.xml
+		INJECTED from /Users/mayliu/AndroidStudioProjects/OpencvPlate/openCVLibrary340/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/mayliu/AndroidStudioProjects/OpencvPlate/openCVLibrary340/src/main/AndroidManifest.xml:5:7-34
+		INJECTED from /Users/mayliu/AndroidStudioProjects/OpencvPlate/openCVLibrary340/src/main/AndroidManifest.xml
+		INJECTED from /Users/mayliu/AndroidStudioProjects/OpencvPlate/openCVLibrary340/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mayliu/AndroidStudioProjects/OpencvPlate/openCVLibrary340/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/mayliu/AndroidStudioProjects/OpencvPlate/openCVLibrary340/src/main/AndroidManifest.xml:4:7-33
+		INJECTED from /Users/mayliu/AndroidStudioProjects/OpencvPlate/openCVLibrary340/src/main/AndroidManifest.xml
+		INJECTED from /Users/mayliu/AndroidStudioProjects/OpencvPlate/openCVLibrary340/src/main/AndroidManifest.xml
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/mayliu/AndroidStudioProjects/OpencvPlate/openCVLibrary340/src/main/AndroidManifest.xml:6:5-83
+	android:name
+		ADDED from /Users/mayliu/AndroidStudioProjects/OpencvPlate/openCVLibrary340/src/main/AndroidManifest.xml:6:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/mayliu/AndroidStudioProjects/OpencvPlate/openCVLibrary340/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/mayliu/AndroidStudioProjects/OpencvPlate/openCVLibrary340/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/mayliu/AndroidStudioProjects/OpencvPlate/openCVLibrary340/src/main/AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from /Users/mayliu/AndroidStudioProjects/OpencvPlate/openCVLibrary340/src/main/AndroidManifest.xml:8:22-69
+uses-sdk
+ADDED from /Users/mayliu/AndroidStudioProjects/OpencvPlate/openCVLibrary340/src/main/AndroidManifest.xml:10:5-73
+INJECTED from /Users/mayliu/AndroidStudioProjects/OpencvPlate/openCVLibrary340/src/main/AndroidManifest.xml:10:5-73
+INJECTED from /Users/mayliu/AndroidStudioProjects/OpencvPlate/openCVLibrary340/src/main/AndroidManifest.xml:10:5-73
+INJECTED from /Users/mayliu/AndroidStudioProjects/OpencvPlate/openCVLibrary340/src/main/AndroidManifest.xml:10:5-73
+INJECTED from /Users/mayliu/AndroidStudioProjects/OpencvPlate/openCVLibrary340/src/main/AndroidManifest.xml:10:5-73
+	android:targetSdkVersion
+		ADDED from /Users/mayliu/AndroidStudioProjects/OpencvPlate/openCVLibrary340/src/main/AndroidManifest.xml:10:41-70
+		INJECTED from /Users/mayliu/AndroidStudioProjects/OpencvPlate/openCVLibrary340/src/main/AndroidManifest.xml
+		INJECTED from /Users/mayliu/AndroidStudioProjects/OpencvPlate/openCVLibrary340/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/mayliu/AndroidStudioProjects/OpencvPlate/openCVLibrary340/src/main/AndroidManifest.xml:10:15-40
+		INJECTED from /Users/mayliu/AndroidStudioProjects/OpencvPlate/openCVLibrary340/src/main/AndroidManifest.xml
+		INJECTED from /Users/mayliu/AndroidStudioProjects/OpencvPlate/openCVLibrary340/src/main/AndroidManifest.xml
